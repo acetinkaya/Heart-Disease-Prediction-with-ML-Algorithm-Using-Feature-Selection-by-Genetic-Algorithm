@@ -42,7 +42,7 @@ Conclusion : As a result of the study, it has been shown that heart disease can 
 
 Günümüzde Yapay Zeka (YZ) uygulamalarından sağlık sektöründe pek çok hastalığın teşhis ve tedavisinde giderek artan oranlarda faydanılmaktadır. Bu çalışmanın amacı Genetik Algoritma (GA) yaklaşımı ile öznitelik seçimi yaparak Makine Öğrenmesi (MÖ) algoritmalarıyla kalp hastalığını tahmin etmek olarak belirlenmiştir. Bu kapsamda çalışmada MÖ algoritmalarından K-En Yakın Komşu (K-EYK), Lojistik Regresyon (LR), Karar Ağacı (KA), Rastgele Orman (RO), Naive Bayes (NB) ve Destek Vektör Makinesi (DVM) algoritmaları ile 3 (üç) farklı grupta toplamda 28 (yirmi sekiz) deney gerçekleştirilmiştir. Çalışma sonucunda en yüksek başarı oranı GA ile yapılan deneylerde %93.44 ile elde edilmiştir. Çalışmamızda yapılan diğer deneylerde ise LR ile %90.16, K-EYK ile %81.96, DVM ile %83.60, NB ile %85.24, KA ile %81.96 ve RO ile %83.60 oranında başarı oranı elde edilmiştir. Çalışmada ABD Cleveland eyaletindeki bireylerin verisini içeren veri seti kullanılmıştır. Araştırmamızda elde edilen sonuçlarda kalp hastalığı tahminin GA yaklaşımı ile öznitelik seçimi yapılması durumunda daha yüksek doğruluk oranının elde edildiği görülmüştür. Çalışmamızın GA ile öznitelik seçimi yapılarak MÖ ile kalp hastalığınınım tahmin edilmesinde sağlık alanındaki literatüre katkı sağlayacağı değerlendirilmektedir.
 
-## Anahtar Kelimeler: Yapay Zekâ, Bulut Bilişim, Yüz Tanıma Sistemi, Öğretilebilir Makine.
+## Anahtar Kelimeler: Makine Öğrenmesi Algoritmaları, Genetik Algoritmalar, Kalp Hastalığı Tahmini, Öznitelik Seçimi
 
 
 ## How to Cite
