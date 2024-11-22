@@ -49,9 +49,9 @@ Günümüzde Yapay Zeka (YZ) uygulamalarından sağlık sektöründe pek çok ha
 
 - **IEEE**: B. Vatansever, H. Aydın, and A. Çetinkaya, “Genetik Algoritma Yaklaşımıyla Öznitelik Seçimi Kullanılarak Makine Öğrenmesi Algoritmaları ile Kalp Hastalığı Tahmini”, JSTER, vol. 2, no. 2, pp. 67–80, 2021, doi: 10.53525/jster.1005934.	
 
-- **APA**: Aslandoğdu, Ö. F., Aydın, H., & Çetinkaya, A. (2022). Bulut üzerinde Tensorflow Javascript ile geliştirilen Öğretilebilir Makine (ÖM) Modelinin Doğruluk Tahmini ve Analizi: Yüz Tanıma Sistemi Uygulaması. Uluslararası Yönetim Bilişim Sistemleri Ve Bilgisayar Bilimleri Dergisi, 6(1), 66-77. https://doi.org/10.33461/uybisbbd.1106753	
+- **APA**: Vatansever, B., Aydın, H., & Çetinkaya, A. (2021). Genetik Algoritma Yaklaşımıyla Öznitelik Seçimi Kullanılarak Makine Öğrenmesi Algoritmaları ile Kalp Hastalığı Tahmini. Journal of Science, Technology and Engineering Research, 2(2), 67-80. https://doi.org/10.53525/jster.1005934	
 
-- **MLA**: Vatansever, B., Aydın, H., & Çetinkaya, A. (2021). Genetik Algoritma Yaklaşımıyla Öznitelik Seçimi Kullanılarak Makine Öğrenmesi Algoritmaları ile Kalp Hastalığı Tahmini. Journal of Science, Technology and Engineering Research, 2(2), 67-80. https://doi.org/10.53525/jster.1005934	
+- **MLA**: Vatansever, Berna et al. “Genetik Algoritma Yaklaşımıyla Öznitelik Seçimi Kullanılarak Makine Öğrenmesi Algoritmaları Ile Kalp Hastalığı Tahmini”. Journal of Science, Technology and Engineering Research, vol. 2, no. 2, 2021, pp. 67-80, doi:10.53525/jster.1005934.	
 
 ## License
 
