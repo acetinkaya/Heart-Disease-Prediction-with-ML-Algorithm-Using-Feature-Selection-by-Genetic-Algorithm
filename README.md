@@ -33,7 +33,7 @@ Theory and Methodology : In this study, ML methods and GA are used.
 Findings and Results: In the study, the importance of feature selection with GA was emphasized by proving that the accuracy of heart disease prediction was higher after feature selection was made with GA in the data set.
 Conclusion : As a result of the study, it has been shown that heart disease can be predicted with higher success rate and accuracy with ML algorithms using feature selection with the GA approach.
 
-## Keywords: Artificial Intelligence, Cloud Computing, Face Recognition System, Teaching Machine
+## Keywords: Machine Learning Algorithms, Genetic Algorithms, Heart Disease Prediction, Feature Selection
 
 
 ![alternatif metin](https://github.com/acetinkaya/Accuracy-Prediction-and-Analysis-of-Teachable-Machine-Model-with-Tensorflow-Javascript-on-the-Cloud/blob/main/tm2.png)
