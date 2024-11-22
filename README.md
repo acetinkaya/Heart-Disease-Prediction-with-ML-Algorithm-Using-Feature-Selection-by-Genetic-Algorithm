@@ -23,7 +23,7 @@ Genetik Algoritma Yaklaşımıyla Öznitelik Seçimi Kullanılarak Makine Öğre
 - **DOI:** 10.53525/jster.1005934
 - **Full Article Access Link**: [Genetik Algoritma Yaklaşımıyla Öznitelik Seçimi Kullanılarak Makine Öğrenmesi Algoritmaları ile Kalp Hastalığı Tahmini](https://dergipark.org.tr/en/pub/jster/issue/61588/1005934) || [Heart Disease Prediction with Machine Learning Algorithm Using Feature Selection by Genetic Algorithm](https://dergipark.org.tr/en/pub/jster/issue/61588/1005934)
 
-![alternatif metin](https://github.com/acetinkaya/Accuracy-Prediction-and-Analysis-of-Teachable-Machine-Model-with-Tensorflow-Javascript-on-the-Cloud/blob/main/tm3.png)
+![alternatif metin](https://github.com/acetinkaya/Heart-Disease-Prediction-with-ML-Algorithm-Using-Feature-Selection-by-Genetic-Algorithm/blob/main/GenetikAlgoritma2.png)
 
 ## Abstract:
 
