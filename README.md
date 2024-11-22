@@ -56,3 +56,5 @@ Günümüzde Yapay Zeka (YZ) uygulamalarından sağlık sektöründe pek çok ha
 ## License
 
 Studies published in the journal are licensed under a Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 (CC BY-NC-ND 4.0) International License. 
+
+![alternatif metin](https://github.com/acetinkaya/Heart-Disease-Prediction-with-ML-Algorithm-Using-Feature-Selection-by-Genetic-Algorithm/blob/main/GenetikAlgoritma3.png)
