@@ -21,7 +21,7 @@ Genetik Algoritma Yaklaşımıyla Öznitelik Seçimi Kullanılarak Makine Öğre
 - **Received**: November 07, 2021  
 - **Accepted**: December 21, 2021
 - **DOI:** 10.53525/jster.1005934
-- **Full Article Access Link**: [Genetik Algoritma Yaklaşımıyla Öznitelik Seçimi Kullanılarak Makine Öğrenmesi Algoritmaları ile Kalp Hastalığı Tahmini](https://dergipark.org.tr/en/pub/uybisbbd/article/1106753) || [Accuracy Prediction and Analysis of Teachable Machine (TM) Model developed with Tensorflow Javascript on the Cloud: Face Recognition System Implementation](https://dergipark.org.tr/en/pub/uybisbbd/article/1106753)
+- **Full Article Access Link**: [Genetik Algoritma Yaklaşımıyla Öznitelik Seçimi Kullanılarak Makine Öğrenmesi Algoritmaları ile Kalp Hastalığı Tahmini](https://dergipark.org.tr/en/pub/jster/issue/61588/1005934) || [Accuracy Prediction and Analysis of Teachable Machine (TM) Model developed with Tensorflow Javascript on the Cloud: Face Recognition System Implementation](https://dergipark.org.tr/en/pub/uybisbbd/article/1106753)
 
 ![alternatif metin](https://github.com/acetinkaya/Accuracy-Prediction-and-Analysis-of-Teachable-Machine-Model-with-Tensorflow-Javascript-on-the-Cloud/blob/main/tm3.png)
 
