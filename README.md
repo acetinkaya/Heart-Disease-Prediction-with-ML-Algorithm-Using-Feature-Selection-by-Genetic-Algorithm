@@ -36,7 +36,7 @@ Conclusion : As a result of the study, it has been shown that heart disease can 
 ## Keywords: Machine Learning Algorithms, Genetic Algorithms, Heart Disease Prediction, Feature Selection
 
 
-![alternatif metin](https://github.com/acetinkaya/Accuracy-Prediction-and-Analysis-of-Teachable-Machine-Model-with-Tensorflow-Javascript-on-the-Cloud/blob/main/tm2.png)
+![alternatif metin](https://github.com/acetinkaya/Heart-Disease-Prediction-with-ML-Algorithm-Using-Feature-Selection-by-Genetic-Algorithm/blob/main/GenetikAlgoritma1.png)
 
 ## Özet: 
 
