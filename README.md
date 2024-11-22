@@ -4,11 +4,11 @@ Heart Disease Prediction with Machine Learning Algorithm Using Feature Selection
 
 Genetik Algoritma Yaklaşımıyla Öznitelik Seçimi Kullanılarak Makine Öğrenmesi Algoritmaları ile Kalp Hastalığı Tahmini
 
-Berna Vatansever , Hakan Aydın , Ali Çetinkaya 
+ , Hakan Aydın , Ali Çetinkaya 
 
 ## Authors
 
-- **Ömer Faruk Aslandoğdu**  
+- **Berna Vatansever**  
   Department of Computer Engineering, Faculty of Engineering and Architecture, Istanbul Gelisim University, Istanbul, Turkey
 
 - **Hakan Aydın**  
