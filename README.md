@@ -55,4 +55,4 @@ Günümüzde Yapay Zeka (YZ) uygulamalarından sağlık sektöründe pek çok ha
 
 ## License
 
-Bu eser [Creative Commons Atıf-GayriTicari 4.0](https://creativecommons.org/licenses/by-nc/4.0/) Uluslararası Lisansı ile lisanslanmıştır.
+Studies published in the journal are licensed under a Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 (CC BY-NC-ND 4.0) International License. 
