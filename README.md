@@ -19,7 +19,7 @@ Genetik Algoritma Yaklaşımıyla Öznitelik Seçimi Kullanılarak Makine Öğre
 
 ## Article Information
 - **Received**: November 22, 2022  
-- **Accepted**: June 08, 2022
+- **Accepted**: December 08, 2022
 - **DOI:** 10.33461/uybisbbd.1106753
 - **Full Article Access Link**: [Bulut üzerinde Tensorflow Javascript ile geliştirilen Öğretilebilir Makine (ÖM) Modelinin Doğruluk Tahmini ve Analizi: Yüz Tanıma Sistemi Uygulaması](https://dergipark.org.tr/en/pub/uybisbbd/article/1106753) || [Accuracy Prediction and Analysis of Teachable Machine (TM) Model developed with Tensorflow Javascript on the Cloud: Face Recognition System Implementation](https://dergipark.org.tr/en/pub/uybisbbd/article/1106753)
 
