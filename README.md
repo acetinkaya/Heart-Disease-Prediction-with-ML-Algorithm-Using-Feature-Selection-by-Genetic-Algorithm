@@ -51,7 +51,7 @@ Günümüzde Yapay Zeka (YZ) uygulamalarından sağlık sektöründe pek çok ha
 
 - **APA**: Aslandoğdu, Ö. F., Aydın, H., & Çetinkaya, A. (2022). Bulut üzerinde Tensorflow Javascript ile geliştirilen Öğretilebilir Makine (ÖM) Modelinin Doğruluk Tahmini ve Analizi: Yüz Tanıma Sistemi Uygulaması. Uluslararası Yönetim Bilişim Sistemleri Ve Bilgisayar Bilimleri Dergisi, 6(1), 66-77. https://doi.org/10.33461/uybisbbd.1106753	
 
-- **MLA**: Aslandoğdu, Ömer Faruk, Hakan Aydın, and Ali Çetinkaya. "Bulut üzerinde Tensorflow Javascript ile geliştirilen Öğretilebilir Makine (ÖM) Modelinin Doğruluk Tahmini ve Analizi: Yüz Tanıma Sistemi Uygulaması." Uluslararası Yönetim Bilişim Sistemleri ve Bilgisayar Bilimleri Dergisi 6.1 (2022): 66-77.
+- **MLA**: Vatansever, B., Aydın, H., & Çetinkaya, A. (2021). Genetik Algoritma Yaklaşımıyla Öznitelik Seçimi Kullanılarak Makine Öğrenmesi Algoritmaları ile Kalp Hastalığı Tahmini. Journal of Science, Technology and Engineering Research, 2(2), 67-80. https://doi.org/10.53525/jster.1005934	
 
 ## License
 
