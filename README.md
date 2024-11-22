@@ -4,8 +4,6 @@ Heart Disease Prediction with Machine Learning Algorithm Using Feature Selection
 
 Genetik Algoritma Yaklaşımıyla Öznitelik Seçimi Kullanılarak Makine Öğrenmesi Algoritmaları ile Kalp Hastalığı Tahmini
 
- , Hakan Aydın , Ali Çetinkaya 
-
 ## Authors
 
 - **Berna Vatansever**  
